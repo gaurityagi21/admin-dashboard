@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-A customizable React Admin Dashboard with themes, tables, charts, calendar, and a Kanban board. Built using React, Material-UI, FullCalendar, and Recharts.
+A customizable React Admin Dashboard with themes, tables, charts, a calendar, and a Kanban board. Built using React, Material-UI, FullCalendar, and Recharts.
 
 ## Features
 
@@ -45,17 +45,17 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single-build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point, you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You don't ever have to use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However, we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Check out the [React documentation](https://reactjs.org/) to learn React.
 
 ### Code Splitting
 
@@ -94,3 +94,18 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
    ```bash
    git clone https://github.com/yourusername/admin-dashboard.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd admin-dashboard
+
+3. Install dependencies:
+   
+   ```bash
+   npm install
+
+4. Start the development server:
+
+   ```bash
+   npm start
