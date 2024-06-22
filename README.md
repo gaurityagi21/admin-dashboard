@@ -10,14 +10,6 @@ A customizable React Admin Dashboard with themes, tables, charts, calendar, and 
 - **Kanban Board**: Drag-and-drop task management with react-beautiful-dnd.
 - **Responsive Layout**: Adaptable to different screen sizes.
 
-## Screenshots
-
-![Dashboard Screenshot](path-to-screenshot.png)
-
-## Demo
-
-[Live Demo](URL-to-live-demo)
-
 ## Getting Started
 
 This project was bootstrapped with Create React App.
