@@ -1,25 +1,45 @@
-# Getting Started with Create React App
+# Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A customizable React Admin Dashboard with themes, tables, charts, calendar, and a Kanban board. Built using React, Material-UI, FullCalendar, and Recharts.
 
-## Available Scripts
+## Features
+
+- **Customizable Themes**: Light and dark modes.
+- **Charts**: Line and bar charts using Recharts.
+- **Calendar**: Interactive calendar with FullCalendar.
+- **Kanban Board**: Drag-and-drop task management with react-beautiful-dnd.
+- **Responsive Layout**: Adaptable to different screen sizes.
+
+## Screenshots
+
+![Dashboard Screenshot](path-to-screenshot.png)
+
+## Demo
+
+[Live Demo](URL-to-live-demo)
+
+## Getting Started
+
+This project was bootstrapped with Create React App.
+
+### Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-### `npm test`
+#### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+#### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -29,7 +49,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+#### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -47,24 +67,38 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 ### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Installation
+
+### Prerequisites
+
+- Node.js and npm installed
+- Git installed
+
+### Steps
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/admin-dashboard.git
